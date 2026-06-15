@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-martial-arts",
+      "description": "Martial artist training in a dark gym",
+      "imageUrl": "https://picsum.photos/seed/ironwolf1/1200/600",
+      "imageHint": "martial arts training"
+    },
+    {
+      "id": "boxing-bag",
+      "description": "Heavy boxing bag in a modern studio",
+      "imageUrl": "https://picsum.photos/seed/ironwolf2/600/400",
+      "imageHint": "boxing gym"
+    },
+    {
+      "id": "meditation",
+      "description": "Focused athlete meditating",
+      "imageUrl": "https://picsum.photos/seed/ironwolf3/600/400",
+      "imageHint": "focus athlete"
+    }
+  ]
+}
